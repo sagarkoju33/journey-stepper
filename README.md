@@ -210,3 +210,5 @@ void main() {
     <td><img src="https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="200"></td>
   </tr>
 </table>
+
+<img src="https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="300" height="540">

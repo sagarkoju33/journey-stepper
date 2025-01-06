@@ -1,6 +1,6 @@
 name: journey_stepper
 description: "Journey stepper to create the timeline of the journey"
-version: 0.0.4
+version: 0.0.5
 homepage: https://github.com/sagarkoju
 
 environment:
