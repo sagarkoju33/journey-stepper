@@ -205,10 +205,10 @@ void main() {
 
 <!-- ![a output](https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png) -->
 
-<table>
+<!-- <table>
   <tr>
-    <td><img src="https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="200"></td>
+    <td><img src="https://github.com/sagarkoju33/journey-stepper/raw/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="200"></td>
   </tr>
-</table>
+</table> -->
 
-<img src="https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="300" height="540">
+<img src="https://github.com/sagarkoju33/journey-stepper/raw/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="300" height="540">

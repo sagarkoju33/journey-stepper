@@ -17,3 +17,11 @@
 ## 0.0.5
 
 - refactor the documentation of image on the readme.md.
+
+## 0.0.6
+
+- refactor the documentation of image on the readme.md.
+
+## 0.0.7
+
+- refactor the documentation on the readme.md.
