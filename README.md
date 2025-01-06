@@ -203,7 +203,7 @@ void main() {
 
 ## Usage
 
-```dart
-![a output](assets/output.png)
-f:\journey_stepper\assets\output.png
-```
+
+![a output](https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png)
+
+
