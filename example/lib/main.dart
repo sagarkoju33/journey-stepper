@@ -1,32 +1,3 @@
-Journey Stepper package lets you add a beautiful timeline based on the current data to your Flutter app.
-
-## Installation
-
-1. Add the latest version of package to your pubspec.yaml (and rundart pub get):
-
-```dart
-dependencies:
-  journey_stepper: ^0.0.1
-```
-
-2. Import the package and use it in your Flutter App.
-
-```dart
-  import 'package:journey_stepper/journey_stepper.dart';
-```
-
-## Feature
-1. A fully customizable,beautiful and easy to use these widget on the different scenario.
-2. There are various type of properties that you can modify some of them are 
-   1.  leftTitle => to show any widget on the left part
-   2.  rightTitle => to show any widget on the right part
-   3.  icon => to show the icon on the vertical stepper
-   4.  iconBackgroundColor=> to show the icon color on the vertical bar
-   5.  isLast=> to complete the journey if the index is last
-
-## Usage
-
-```dart
 import 'package:flutter/material.dart';
 import 'package:journey_stepper/journey_stepper.dart';
 
@@ -134,16 +105,3 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
-```
-
-## Usage
-
-<!-- ![a output](https://github.com/sagarkoju33/journey-stepper/blob/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png) -->
-
-<!-- <table>
-  <tr>
-    <td><img src="https://github.com/sagarkoju33/journey-stepper/raw/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="200"></td>
-  </tr>
-</table> -->
-
-<img src="https://github.com/sagarkoju33/journey-stepper/raw/dfea8d7c6f22e6eaa689758c755b6d629139e09c/assets/output.png" alt="Success Status" width="300" height="540">

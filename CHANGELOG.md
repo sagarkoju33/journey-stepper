@@ -25,3 +25,7 @@
 ## 0.0.7
 
 - refactor the documentation on the readme.md.
+  
+ ## 0.0.8
+
+- refactor the code.
