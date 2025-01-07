@@ -1,9 +1,9 @@
 name: journey_stepper
 description: "Journey stepper to create the timeline of the journey.A fully customizable, beautiful and easy to use stepper widget. It help you to show or collect information from users using organized steps."
-version: 0.0.8
+version: 0.0.10
 homepage: https://github.com/sagarkoju
 view/report issue : https://github.com/sagarkoju33/journey-stepper/tree/master
-
+repository : https://github.com/sagarkoju33/journey-stepper/tree/master
 environment:
   sdk: ^3.5.1
   flutter: ">=1.17.0"
