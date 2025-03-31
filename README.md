@@ -6,7 +6,7 @@ Journey Stepper package lets you add a beautiful timeline based on the current d
 
 ```dart
 dependencies:
-  journey_stepper: ^0.0.1
+  journey_stepper: ^0.0.11
 ```
 
 2. Import the package and use it in your Flutter App.
